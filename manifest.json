@@ -1,0 +1,4 @@
+rsconnect::writeManifest(
+    appDir = ".", # the directory containing your content
+    appPrimaryDoc = "test_markdown.Rmd", # if there are more than one possible documents, e.g. if you have multiple RMDs
+)
